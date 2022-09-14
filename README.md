@@ -20,6 +20,7 @@ Typically these tasks are performed in Excel, but Tom's manager wants to know if
 
 ## Election-Audit Results
 The analysis of the election show that:
+### Canidate Results
 - There were 369,711 votes cast in the election.
 - The candidates were:
   - Charles Casper Stockham
@@ -31,6 +32,7 @@ The analysis of the election show that:
   - Raymon Anthony Doane 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
   - Diana DeGetle who received 73.8% of the vote and 272,892 number of votes.
+### County Results
 
 ## Election-Audit Summary
 
