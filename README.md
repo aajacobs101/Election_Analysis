@@ -59,5 +59,6 @@ The analysis of the election show that:
 
 ## Election-Audit Summary
 
+This code or script can be used to audit future elections. It will automate the process and reduce the possiblity of errors occuring. It will read csv files that are formated like the file provided for this election. The code would have to be modified if the the csv file and the information held within it was formated differently. ie. county or candidate information was listed in a different column. Another bit of information that could be pulled from this data by modifying or adding to the code would be which candidate "Won" each county.
 
 
